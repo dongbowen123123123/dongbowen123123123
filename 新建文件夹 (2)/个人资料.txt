@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>董博文的个人主页</title>
+    <!-- 外部样式表，路径指向 /myweb/style.css -->
+    <link rel="stylesheet" href="/myweb/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <!-- 头部 -->
+        <div class="header">
+            <h1>董博文</h1>
+            <p class="subtitle">沈阳理工大学 · 网络工程专业 · 本科生</p >
+        </div>
+
+        <!-- 关于我 -->
+        <div class="section">
+            <h2>👤 关于我</h2>
+            <p>大家好，我是董博文。我是一个热爱探索新事物、喜欢迎接挑战的人。在技术学习的道路上，我始终保持着好奇心与热情，目前正在努力学习 C 语言和 Python，希望能在编程的世界里不断突破自我。</p >
+        </div>
+
+        <!-- 技能 -->
+        <div class="section">
+            <h2>💻 专业技能</h2>
+            <div class="tags">
+                <span class="tag">C语言编程</span>
+                <span class="tag">Python（学习中）</span>
+                <span class="tag">网络工程基础</span>
+            </div>
+        </div>
+
+        <!-- 兴趣爱好 -->
+        <div class="section">
+            <h2>🏸 兴趣爱好</h2>
+            <div class="tags">
+                <span class="tag">羽毛球</span>
+                <span class="tag">打游戏</span>
+                <span class="tag">刷剧</span>
+                <span class="tag">跑步</span>
+            </div>
+        </div>
+
+        <!-- 联系方式 -->
+        <div class="section">
+            <h2>📞 联系方式</h2>
+            <ul class="contact-list">
+                <li><span>邮箱：</span>2539124915@qq.com</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
